@@ -64,6 +64,7 @@
         </div>
       </div>
     </q-footer>
+
   </q-layout>
 </template>
 
